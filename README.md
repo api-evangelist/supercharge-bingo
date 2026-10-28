@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-supercharge.bingo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://supercharge.bingo/
+SuperChargeBingo is a gamified platform for Tesla Supercharger users, encouraging engagement by turning charging sessions into a bingo-style game where participants can earn badges, become Bingo-Masters, and collect rewards. Founded in 2019, the service leverages NFC tags and geolocation to track visits to Supercharger stations, offering a community-driven experience for electric vehicle owners.
+
+**Areas:** Company · Gaming · EV · Community · Tesla
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://supercharge.bingo/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/supercharge-bingo/](https://apis.io/providers/supercharge-bingo/).
